@@ -1,7 +1,5 @@
 # vim-large-files
-Vim plugin that makes viewing/editing of large files more efficient.
-
-This plugin makes viewing/editing of large files a bit more efficient,
+Vim plugin that makes viewing/editing of large files a bit more efficient,
 as it turns off syntax highlighting and reduces the number of undos.
 
 # Installation
